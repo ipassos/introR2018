@@ -1,0 +1,459 @@
+indiv,raca,sexo,idade,escolaridade,renda,estado,cidade
+#0000001,Branca,F,20,superior,2000,solteiro,Porto Alegre
+#0000002,Negra,M,45,médio,10000,casado,São Paulo
+#0000003,Negra,M,65,técnico,3900,viúvo,Curitiba
+#0000004,Parda,F,23,superior,4500,solteiro,Rio de Janeiro
+#0000005,Branca,M,38,pós-graduação,15000,solteiro,Brasilia
+#0000006,Negra,F,18,fundamental,900,casado,Florianopolis
+#0000007,Indígena,F,48,médio,2500,casado,Rio Branco
+#0000008,Indígena,F,89,pós-graduação,20000,separado,Natal
+#0000009,Branca,M,74,médio,45164,solteiro,Recife
+#0000010,branca,F,45,superior,15204,casado,Salvador
+#0000011,negra,F,24,médio,1454,viúvo,Belo Horizonte
+#0000012,Indígena,F,56,fundamental,5469,solteiro,Vitória
+#0000013,negra,M,84,superior,4578,solteiro,Porto Alegre
+#0000014,parda,F,53,médio,1246,casado,São Paulo
+#0000015,Branca,F,74,fundamental,14567,casado,Curitiba
+#0000016,Negra,F,65,superior,1244,separado,Rio de Janeiro
+#0000017,Indígena,M,42,médio,9874,solteiro,Brasilia
+#0000018,Indígena,F,25,técnico,6542,casado,Florianopolis
+#0000019,Branca,F,13,superior,3210,viúvo,Rio Branco
+#0000020,Branca,F,14,pós-graduação,3645,solteiro,Natal
+#0000021,negra,F,58,fundamental,3145,solteiro,Recife
+#0000022,Indígena,M,87,médio,9874,casado,Salvador
+#0000023,Parda,M,64,pós-graduação,5214,casado,Belo Horizonte
+#0000024,Branca,F,56,médio,22301,separado,Vitória
+#0000025,Indígena,M,33,superior,2321,casado,Natal
+#0000026,negra,F,34,médio,6541,viúvo,Recife
+#0000027,Indígena,F,25,fundamental,2749,solteiro,Salvador
+#0000028,negra,F,27,superior,4521,solteiro,Belo Horizonte
+#0000029,Branca,M,29,médio,7941,casado,Vitória
+#0000030,Parda,F,54,fundamental,4571,casado,Porto Alegre
+#0000031,Branca,F,34,superior,6541,separado,São Paulo
+#0000032,negra,F,46,médio,546,solteiro,Curitiba
+#0000033,Branca,M,48,técnico,4523,casado,Rio de Janeiro
+#0000034,Branca,F,50,superior,1234,viúvo,Brasilia
+#0000035,Indígena,F,23,pós-graduação,1678,solteiro,Florianopolis
+#0000036,Negra,F,16,fundamental,9541,solteiro,Rio Branco
+#0000037,Branca,M,43,médio,8745,casado,São Paulo
+#0000038,Indígena,F,87,pós-graduação,3201,casado,Salvador
+#0000039,negra,F,46,médio,7452,viúvo,Belo Horizonte
+#0000040,Branca,F,54,superior,9845,solteiro,Vitória
+#0000041,Branca,F,78,médio,7451,solteiro,Porto Alegre
+#0000042,Branca,M,89,fundamental,1204,casado,São Paulo
+#0000043,negra,M,54,superior,1254,casado,Curitiba
+#0000044,parda,F,21,médio,1325,separado,Rio de Janeiro
+#0000045,Negra,M,45,fundamental,1023,casado,Brasilia
+#0000046,negra,F,20,médio,65410,viúvo,Florianopolis
+#0000047,Indígena,F,54,fundamental,22301,solteiro,Rio Branco
+#0000048,negra,F,46,superior,2321,solteiro,Brasilia
+#0000049,Branca,M,45,médio,6541,casado,Florianopolis
+#0000050,negra,F,21,fundamental,2749,casado,Rio Branco
+#0000051,Branca,F,65,superior,4521,separado,Natal
+#0000052,Branca,F,74,médio,7941,viúvo,Recife
+#0000053,Indígena,M,44,técnico,4571,solteiro,Salvador
+#0000054,Negra,F,75,superior,6541,solteiro,Belo Horizonte
+#0000055,Branca,F,64,pós-graduação,546,casado,Vitória
+#0000056,Indígena,F,55,fundamental,4523,casado,Natal
+#0000057,negra,M,33,médio,1234,separado,Recife
+#0000058,Branca,F,14,médio,1678,casado,Salvador
+#0000059,Branca,F,56,fundamental,9541,viúvo,Belo Horizonte
+#0000060,Branca,F,84,superior,8745,solteiro,Vitória
+#0000061,negra,F,53,médio,3201,solteiro,Porto Alegre
+#0000062,Branca,M,74,fundamental,7452,casado,São Paulo
+#0000063,negra,M,65,médio,9845,casado,Curitiba
+#0000064,Branca,F,42,fundamental,7451,separado,Rio de Janeiro
+#0000065,Branca,M,25,superior,1204,solteiro,Brasilia
+#0000066,Indígena,F,13,médio,1254,casado,Florianopolis
+#0000067,Negra,F,14,fundamental,1325,viúvo,Rio Branco
+#0000068,Branca,F,58,superior,1023,solteiro,São Paulo
+#0000069,Indígena,M,87,médio,5412,solteiro,Salvador
+#0000070,negra,F,64,técnico,3214,casado,Belo Horizonte
+#0000071,Branca,F,56,superior,5421,casado,Vitória
+#0000072,Branca,F,33,pós-graduação,45854,viúvo,Porto Alegre
+#0000073,Branca,M,34,fundamental,7845,solteiro,São Paulo
+#0000074,negra,F,25,médio,654,solteiro,Curitiba
+#0000075,Negra,F,27,médio,1230,casado,Curitiba
+#0000076,Parda,F,29,fundamental,1245,casado,Rio de Janeiro
+#0000077,Branca,M,54,superior,1365,separado,Brasilia
+#0000078,Negra,F,34,médio,1000,casado,Florianopolis
+#0000079,Indígena,F,46,fundamental,950,viúvo,Rio Branco
+#0000080,Indígena,F,48,médio,2413,solteiro,São Paulo
+#0000081,Branca,F,50,fundamental,3412,solteiro,Salvador
+#0000082,branca,M,23,superior,2000,casado,Belo Horizonte
+#0000083,negra,M,16,médio,2012,casado,Vitória
+#0000084,Indígena,F,43,fundamental,3102,viúvo,Porto Alegre
+#0000085,negra,M,87,superior,1023,solteiro,São Paulo
+#0000086,parda,F,46,médio,1024,solteiro,Curitiba
+#0000087,Branca,F,54,técnico,1052,casado,Rio de Janeiro
+#0000088,Negra,F,78,superior,1025,casado,Brasilia
+#0000089,Indígena,M,89,pós-graduação,1754,separado,Florianopolis
+#0000090,Indígena,F,54,fundamental,1354,casado,Rio Branco
+#0000091,Indígena,F,21,médio,1658,viúvo,Brasilia
+#0000092,Branca,F,45,superior,2013,solteiro,Florianopolis
+#0000093,branca,M,20,médio,7840,solteiro,Rio Branco
+#0000094,negra,F,54,técnico,3210,casado,Natal
+#0000095,Indígena,F,20,superior,1024,casado,Recife
+#0000096,negra,F,54,pós-graduação,2013,separado,Salvador
+#0000097,parda,M,46,fundamental,1032,viúvo,Belo Horizonte
+#0000098,Branca,F,45,médio,1024,solteiro,Vitória
+#0000099,negra,F,21,médio,1026,solteiro,Natal
+#0000100,Branca,F,65,fundamental,1054,casado,Recife
+#0000101,Branca,F,74,superior,1987,casado,Salvador
+#0000102,Indígena,M,44,médio,2014,separado,Belo Horizonte
+#0000103,Negra,F,75,fundamental,1034,casado,Belo Horizonte
+#0000104,Branca,F,64,médio,7845,viúvo,Vitória
+#0000105,Indígena,F,55,fundamental,654,solteiro,Natal
+#0000106,negra,M,33,superior,1230,solteiro,Recife
+#0000107,Branca,F,14,médio,1245,casado,Salvador
+#0000108,Branca,F,56,superior,1365,casado,Belo Horizonte
+#0000109,Branca,F,84,pós-graduação,1000,separado,Vitória
+#0000110,negra,F,53,fundamental,950,solteiro,Porto Alegre
+#0000111,Indígena,M,74,médio,2413,viúvo,São Paulo
+#0000112,Indígena,M,65,superior,3412,solteiro,Curitiba
+#0000113,Branca,F,42,médio,2000,solteiro,Rio de Janeiro
+#0000114,branca,M,25,técnico,2012,casado,Brasilia
+#0000115,negra,F,13,superior,3102,casado,Florianopolis
+#0000116,Indígena,F,14,pós-graduação,1023,separado,Rio Branco
+#0000117,negra,F,58,fundamental,1024,solteiro,São Paulo
+#0000118,parda,M,87,médio,1052,casado,Salvador
+#0000119,Branca,F,64,médio,1025,viúvo,Belo Horizonte
+#0000120,Branca,F,56,fundamental,1754,solteiro,Vitória
+#0000121,Negra,F,33,superior,1354,solteiro,Porto Alegre
+#0000122,Indígena,M,34,médio,1658,casado,São Paulo
+#0000123,Indígena,F,50,fundamental,2013,casado,Curitiba
+#0000124,Branca,F,23,fundamental,7840,viúvo,Curitiba
+#0000125,branca,F,16,médio,3210,solteiro,Rio de Janeiro
+#0000126,negra,M,43,médio,1024,solteiro,Brasilia
+#0000127,Indígena,F,87,técnico,2013,casado,Florianopolis
+#0000128,negra,M,46,superior,1032,casado,Rio Branco
+#0000129,parda,F,54,pós-graduação,1024,separado,São Paulo
+#0000130,Branca,F,78,fundamental,1026,casado,Salvador
+#0000131,Negra,F,89,médio,1054,viúvo,Belo Horizonte
+#0000132,Indígena,M,54,superior,1987,solteiro,Vitória
+#0000133,Negra,F,21,médio,2014,solteiro,Natal
+#0000134,negra,F,45,técnico,1034,casado,Recife
+#0000135,Branca,F,20,superior,1230,casado,Salvador
+#0000136,Branca,F,54,pós-graduação,1245,viúvo,Belo Horizonte
+#0000137,Negra,M,20,fundamental,1365,solteiro,Vitória
+#0000138,negra,M,54,médio,1000,solteiro,Natal
+#0000139,Branca,F,46,médio,950,casado,Recife
+#0000140,Branca,M,45,fundamental,2413,casado,Salvador
+#0000141,Indígena,F,21,superior,3412,viúvo,Belo Horizonte
+#0000142,Negra,F,65,médio,2000,solteiro,Belo Horizonte
+#0000143,Branca,F,74,fundamental,2012,solteiro,Vitória
+#0000144,Indígena,M,44,médio,3102,casado,Natal
+#0000145,negra,F,75,fundamental,1023,casado,Recife
+#0000146,Branca,F,64,superior,1024,separado,Salvador
+#0000147,Branca,F,55,médio,1052,casado,Belo Horizonte
+#0000148,Branca,M,33,superior,1025,viúvo,Vitória
+#0000149,negra,F,14,pós-graduação,1754,solteiro,Porto Alegre
+#0000150,negra,F,56,fundamental,1354,solteiro,São Paulo
+#0000151,parda,F,56,médio,1658,casado,Curitiba
+#0000152,Branca,M,84,superior,2013,casado,Rio de Janeiro
+#0000153,Negra,F,53,médio,7840,separado,Brasilia
+#0000154,Indígena,M,74,fundamental,3210,solteiro,Florianopolis
+#0000155,Negra,F,65,médio,1024,viúvo,Rio Branco
+#0000156,Parda,F,42,superior,2013,solteiro,São Paulo
+#0000157,Branca,F,25,médio,1032,solteiro,Salvador
+#0000158,Negra,M,13,técnico,1754,casado,Belo Horizonte
+#0000159,Indígena,F,14,superior,1354,casado,Salvador
+#0000160,Indígena,F,58,pós-graduação,1658,separado,Belo Horizonte
+#0000161,Branca,F,87,fundamental,2013,solteiro,Vitória
+#0000162,branca,F,64,médio,7840,casado,Porto Alegre
+#0000163,Negra,M,56,médio,3210,viúvo,São Paulo
+#0000164,Negra,M,33,fundamental,1024,solteiro,Curitiba
+#0000165,Parda,F,34,superior,2013,solteiro,Curitiba
+#0000166,Branca,M,50,médio,1032,casado,Rio de Janeiro
+#0000167,Negra,F,23,fundamental,1024,solteiro,Brasilia
+#0000168,Indígena,F,16,médio,1026,solteiro,Florianopolis
+#0000169,Indígena,F,43,fundamental,1054,casado,Rio Branco
+#0000170,Branca,M,87,superior,1987,casado,São Paulo
+#0000171,branca,F,46,médio,2014,viúvo,Salvador
+#0000172,negra,F,54,superior,1034,solteiro,Belo Horizonte
+#0000173,Indígena,F,78,pós-graduação,1230,solteiro,Vitória
+#0000174,negra,M,89,fundamental,1245,casado,Natal
+#0000175,parda,F,54,médio,1365,casado,Recife
+#0000176,Branca,F,21,superior,1000,separado,Salvador
+#0000177,Negra,F,21,pós-graduação,950,casado,Belo Horizonte
+#0000178,Indígena,M,45,fundamental,2413,viúvo,Vitória
+#0000179,Negra,F,20,médio,3412,solteiro,Natal
+#0000180,Parda,M,54,superior,2000,solteiro,Recife
+#0000181,Branca,F,46,médio,2012,casado,Salvador
+#0000182,Negra,F,45,técnico,3102,casado,Belo Horizonte
+#0000183,Indígena,F,21,superior,3412,viúvo,Belo Horizonte
+#0000184,Indígena,M,65,pós-graduação,2000,solteiro,São Paulo
+#0000185,Branca,F,74,fundamental,2012,solteiro,Salvador
+#0000186,branca,F,44,médio,3102,casado,Belo Horizonte
+#0000187,negra,F,75,médio,1023,casado,Salvador
+#0000188,Indígena,F,64,fundamental,1024,viúvo,Belo Horizonte
+#0000189,Indígena,M,55,superior,1052,solteiro,Vitória
+#0000190,Branca,M,33,médio,1025,solteiro,Porto Alegre
+#0000191,branca,F,14,fundamental,1754,casado,São Paulo
+#0000192,negra,M,56,médio,1354,casado,Curitiba
+#0000193,Indígena,F,84,fundamental,1658,separado,Curitiba
+#0000194,Parda,F,53,superior,2013,casado,Rio de Janeiro
+#0000195,Branca,F,74,médio,7840,viúvo,Brasilia
+#0000196,Negra,M,65,superior,3210,solteiro,Florianopolis
+#0000197,Indígena,F,42,pós-graduação,1024,solteiro,Rio Branco
+#0000198,Indígena,F,25,fundamental,2013,casado,São Paulo
+#0000199,Branca,F,13,médio,1032,separado,Salvador
+#0000200,branca,M,14,superior,1754,solteiro,Belo Horizonte
+#0000201,negra,F,58,médio,1354,casado,Vitória
+#0000202,Indígena,F,87,técnico,1658,viúvo,Natal
+#0000203,negra,F,64,superior,2013,solteiro,Recife
+#0000204,parda,M,56,pós-graduação,7840,solteiro,Salvador
+#0000205,Branca,F,33,fundamental,3210,casado,Belo Horizonte
+#0000206,Negra,M,34,médio,1024,solteiro,Vitória
+#0000207,Indígena,F,25,médio,2013,solteiro,Natal
+#0000208,Indígena,F,27,fundamental,1032,casado,Recife
+#0000209,negra,F,29,superior,1024,casado,Florianopolis
+#0000210,parda,M,54,médio,1026,viúvo,Rio Branco
+#0000211,Branca,F,34,fundamental,1054,solteiro,São Paulo
+#0000212,Negra,F,46,fundamental,1987,solteiro,Salvador
+#0000213,Parda,F,48,médio,2014,casado,Belo Horizonte
+#0000214,Branca,F,50,médio,1034,casado,Salvador
+#0000215,Negra,M,23,técnico,1230,separado,Belo Horizonte
+#0000216,Indígena,M,58,superior,1987,casado,Vitória
+#0000217,Indígena,F,87,pós-graduação,2014,viúvo,Porto Alegre
+#0000218,Branca,M,64,fundamental,1034,solteiro,São Paulo
+#0000219,branca,F,56,médio,1230,solteiro,Curitiba
+#0000220,negra,F,33,superior,1245,casado,Curitiba
+#0000221,Indígena,F,34,médio,1365,casado,Rio de Janeiro
+#0000222,negra,M,25,técnico,1000,viúvo,Brasilia
+#0000223,parda,F,27,superior,950,solteiro,Florianopolis
+#0000224,Branca,F,29,pós-graduação,2413,solteiro,Rio Branco
+#0000225,Negra,F,54,fundamental,3412,casado,São Paulo
+#0000226,Indígena,M,34,médio,2000,casado,Salvador
+#0000227,Indígena,F,46,médio,2012,viúvo,Belo Horizonte
+#0000228,negra,F,48,fundamental,3102,solteiro,Vitória
+#0000229,parda,F,50,superior,3412,casado,Natal
+#0000230,Branca,F,20,superior,2000,solteiro,Recife
+#0000231,Negra,M,45,médio,10000,casado,Salvador
+#0000232,Negra,F,65,técnico,3900,viúvo,Belo Horizonte
+#0000233,Parda,F,23,superior,4500,solteiro,Vitória
+#0000234,Branca,F,38,pós-graduação,15000,solteiro,Natal
+#0000235,Negra,F,18,fundamental,900,casado,Recife
+#0000236,Indígena,M,48,médio,2500,casado,Salvador
+#0000237,Indígena,M,89,pós-graduação,20000,viúvo,Belo Horizonte
+#0000238,Branca,F,74,médio,45164,solteiro,Belo Horizonte
+#0000239,branca,M,45,superior,15204,solteiro,São Paulo
+#0000240,negra,F,24,médio,1454,casado,Salvador
+#0000241,Indígena,F,56,fundamental,5469,casado,Belo Horizonte
+#0000242,negra,F,84,superior,4578,separado,Salvador
+#0000243,parda,M,53,médio,1246,casado,Belo Horizonte
+#0000244,Branca,F,74,fundamental,14567,viúvo,Vitória
+#0000245,Negra,F,65,superior,1244,solteiro,Porto Alegre
+#0000246,Indígena,F,42,médio,9874,solteiro,São Paulo
+#0000247,Indígena,M,25,técnico,6542,casado,Curitiba
+#0000248,Branca,F,13,superior,3210,casado,Curitiba
+#0000249,Branca,F,14,pós-graduação,3645,separado,Rio de Janeiro
+#0000250,negra,F,58,fundamental,3145,viúvo,Brasilia
+#0000251,Indígena,M,87,médio,9874,solteiro,Florianopolis
+#0000252,Parda,F,64,pós-graduação,5214,solteiro,Rio Branco
+#0000253,Branca,F,56,médio,22301,casado,São Paulo
+#0000254,Indígena,F,33,superior,2321,casado,Salvador
+#0000255,negra,F,34,médio,6541,separado,Belo Horizonte
+#0000256,Indígena,M,25,fundamental,2749,casado,Vitória
+#0000257,negra,F,27,superior,4521,viúvo,Natal
+#0000258,Branca,F,29,médio,7941,solteiro,Recife
+#0000259,Parda,F,54,fundamental,4571,solteiro,Salvador
+#0000260,Branca,M,34,superior,6541,casado,Belo Horizonte
+#0000261,negra,F,46,médio,546,casado,Porto Alegre
+#0000262,Branca,F,48,técnico,4523,separado,São Paulo
+#0000263,Branca,F,50,superior,1234,solteiro,Curitiba
+#0000264,Indígena,F,23,pós-graduação,1678,casado,Rio de Janeiro
+#0000265,Negra,M,16,fundamental,9541,viúvo,Brasilia
+#0000266,Branca,M,43,médio,8745,solteiro,Florianopolis
+#0000267,Indígena,F,87,pós-graduação,3201,solteiro,Rio Branco
+#0000268,negra,M,46,médio,7452,casado,Natal
+#0000269,Branca,F,54,superior,9845,casado,Recife
+#0000270,Branca,F,78,médio,7451,viúvo,Salvador
+#0000271,Branca,F,89,fundamental,1204,solteiro,Belo Horizonte
+#0000272,negra,M,54,superior,1254,solteiro,Vitória
+#0000273,parda,F,21,médio,1325,casado,Porto Alegre
+#0000274,Negra,F,45,fundamental,1023,casado,São Paulo
+#0000275,negra,F,20,médio,65410,separado,Curitiba
+#0000276,Indígena,M,54,fundamental,22301,casado,Rio de Janeiro
+#0000277,negra,F,46,superior,2321,viúvo,Brasilia
+#0000278,Branca,F,45,médio,6541,solteiro,Florianopolis
+#0000279,negra,F,21,fundamental,2749,solteiro,Rio Branco
+#0000280,Branca,M,65,superior,4521,casado,Natal
+#0000281,Branca,F,74,médio,7941,casado,Recife
+#0000282,Indígena,M,44,técnico,4571,viúvo,Salvador
+#0000283,Negra,F,75,superior,6541,solteiro,Belo Horizonte
+#0000284,Branca,F,64,pós-graduação,546,solteiro,Vitória
+#0000285,Indígena,F,55,fundamental,4523,casado,Natal
+#0000286,negra,M,33,médio,1234,casado,Recife
+#0000287,Branca,F,14,médio,1678,separado,Salvador
+#0000288,Branca,F,56,fundamental,9541,casado,Belo Horizonte
+#0000289,Branca,F,84,superior,8745,viúvo,Vitória
+#0000290,negra,F,53,médio,3201,solteiro,Porto Alegre
+#0000291,Branca,M,74,fundamental,7452,solteiro,São Paulo
+#0000292,negra,M,65,médio,9845,casado,Curitiba
+#0000293,Branca,F,42,fundamental,7451,casado,Rio de Janeiro
+#0000294,Branca,M,25,superior,1204,separado,Brasilia
+#0000295,Indígena,F,13,médio,1254,viúvo,Florianopolis
+#0000296,Negra,F,14,fundamental,1325,solteiro,Rio Branco
+#0000297,Branca,F,58,superior,1023,solteiro,São Paulo
+#0000298,Indígena,M,87,médio,5412,casado,Salvador
+#0000299,negra,F,64,técnico,3214,casado,Belo Horizonte
+#0000300,Branca,F,56,superior,5421,separado,Vitória
+#0000301,Branca,F,33,pós-graduação,45854,casado,Porto Alegre
+#0000302,Branca,M,34,fundamental,7845,viúvo,São Paulo
+#0000303,negra,F,25,médio,654,solteiro,Curitiba
+#0000304,Negra,F,27,médio,1230,solteiro,Rio de Janeiro
+#0000305,Parda,F,29,fundamental,1245,casado,Brasilia
+#0000306,Branca,M,54,superior,1365,casado,Florianopolis
+#0000307,Negra,F,34,médio,1000,separado,Rio Branco
+#0000308,Indígena,M,46,fundamental,950,solteiro,Brasilia
+#0000309,Indígena,F,48,médio,2413,viúvo,Florianopolis
+#0000310,Branca,F,50,fundamental,3412,solteiro,Rio Branco
+#0000311,branca,F,23,superior,2000,solteiro,Natal
+#0000312,negra,M,16,médio,2012,casado,Recife
+#0000313,Indígena,F,43,fundamental,3102,casado,Salvador
+#0000314,negra,F,87,superior,1023,separado,Belo Horizonte
+#0000315,parda,F,46,médio,1024,solteiro,Vitória
+#0000316,Branca,F,54,técnico,1052,casado,Natal
+#0000317,Negra,M,78,superior,1025,viúvo,Recife
+#0000318,Indígena,M,89,pós-graduação,1754,solteiro,Salvador
+#0000319,Indígena,F,54,fundamental,1354,solteiro,Belo Horizonte
+#0000320,Indígena,M,21,médio,1658,casado,Vitória
+#0000321,Branca,F,45,superior,2013,casado,Porto Alegre
+#0000322,branca,F,20,médio,7840,viúvo,São Paulo
+#0000323,negra,F,54,técnico,3210,solteiro,Curitiba
+#0000324,Indígena,M,20,superior,1024,solteiro,Rio de Janeiro
+#0000325,negra,F,54,pós-graduação,2013,casado,Brasilia
+#0000326,parda,F,46,fundamental,1032,casado,Florianopolis
+#0000327,Branca,F,45,médio,1024,separado,Rio Branco
+#0000328,negra,M,21,médio,1026,casado,São Paulo
+#0000329,Branca,F,65,fundamental,1054,viúvo,Salvador
+#0000330,Branca,F,74,superior,1987,solteiro,Belo Horizonte
+#0000331,Indígena,F,44,médio,2014,solteiro,Vitória
+#0000332,Negra,M,75,fundamental,1034,casado,Porto Alegre
+#0000333,Branca,F,64,médio,7845,casado,São Paulo
+#0000334,Indígena,M,55,fundamental,654,viúvo,Curitiba
+#0000335,negra,F,33,superior,1230,solteiro,Curitiba
+#0000336,Branca,F,14,médio,1245,solteiro,Rio de Janeiro
+#0000337,Branca,F,56,superior,1365,casado,Brasilia
+#0000338,Branca,M,84,pós-graduação,1000,casado,Florianopolis
+#0000339,negra,F,53,fundamental,950,viúvo,Rio Branco
+#0000340,Indígena,F,74,médio,2413,solteiro,São Paulo
+#0000341,Indígena,F,65,superior,3412,solteiro,Salvador
+#0000342,Branca,F,42,médio,2000,casado,Belo Horizonte
+#0000343,branca,M,25,técnico,2012,casado,Vitória
+#0000344,negra,M,13,superior,3102,separado,Porto Alegre
+#0000345,Indígena,F,14,pós-graduação,1023,casado,São Paulo
+#0000346,negra,M,58,fundamental,1024,viúvo,Curitiba
+#0000347,parda,F,87,médio,1052,solteiro,Rio de Janeiro
+#0000348,Branca,F,64,médio,1025,solteiro,Brasilia
+#0000349,Branca,F,56,fundamental,1754,casado,Florianopolis
+#0000350,Negra,M,33,superior,1354,casado,Rio Branco
+#0000351,Indígena,F,34,médio,1658,separado,Brasilia
+#0000352,Indígena,F,50,fundamental,2013,solteiro,Florianopolis
+#0000353,Branca,F,23,fundamental,7840,viúvo,Rio Branco
+#0000354,branca,M,16,médio,3210,solteiro,Natal
+#0000355,negra,F,43,médio,1024,solteiro,Recife
+#0000356,Indígena,F,87,técnico,2013,casado,Salvador
+#0000357,negra,F,46,superior,1032,casado,Belo Horizonte
+#0000358,parda,M,54,pós-graduação,1024,separado,Vitória
+#0000359,Branca,F,78,fundamental,1026,solteiro,Natal
+#0000360,Negra,M,89,médio,1054,casado,Recife
+#0000361,Indígena,F,54,superior,1987,viúvo,Salvador
+#0000362,Negra,F,21,médio,2014,solteiro,Belo Horizonte
+#0000363,negra,F,45,técnico,1034,solteiro,Belo Horizonte
+#0000364,Branca,M,20,superior,1230,casado,Vitória
+#0000365,Branca,F,54,pós-graduação,1245,solteiro,Natal
+#0000366,Negra,F,20,fundamental,1365,solteiro,Recife
+#0000367,negra,F,54,médio,1000,casado,Salvador
+#0000368,Branca,F,46,médio,950,casado,Belo Horizonte
+#0000369,Branca,M,45,fundamental,2413,viúvo,Vitória
+#0000370,Indígena,M,21,superior,3412,solteiro,Porto Alegre
+#0000371,Negra,F,65,médio,2000,solteiro,São Paulo
+#0000372,Branca,M,74,fundamental,2012,casado,Curitiba
+#0000373,Indígena,F,44,médio,3102,casado,Rio de Janeiro
+#0000374,negra,F,75,fundamental,1023,separado,Brasilia
+#0000375,Branca,F,64,superior,1024,casado,Florianopolis
+#0000376,Branca,M,55,médio,1052,viúvo,Rio Branco
+#0000377,Branca,F,33,superior,1025,solteiro,São Paulo
+#0000378,negra,F,14,pós-graduação,1754,solteiro,Salvador
+#0000379,negra,F,56,fundamental,1354,casado,Belo Horizonte
+#0000380,parda,M,56,médio,1658,casado,Vitória
+#0000381,Branca,F,84,superior,2013,viúvo,Porto Alegre
+#0000382,Negra,F,53,médio,7840,solteiro,São Paulo
+#0000383,Indígena,F,74,fundamental,3210,solteiro,Curitiba
+#0000384,Negra,F,65,médio,1024,casado,Curitiba
+#0000385,Parda,M,42,superior,2013,casado,Rio de Janeiro
+#0000386,Branca,M,25,médio,1032,viúvo,Brasilia
+#0000387,Negra,F,13,técnico,1754,solteiro,Florianopolis
+#0000388,Indígena,M,14,superior,1354,solteiro,Rio Branco
+#0000389,Indígena,F,58,pós-graduação,1658,casado,São Paulo
+#0000390,Branca,F,87,fundamental,2013,casado,Salvador
+#0000391,branca,F,64,médio,7840,separado,Belo Horizonte
+#0000392,Negra,M,56,médio,3210,casado,Vitória
+#0000393,Negra,F,33,fundamental,1024,viúvo,Natal
+#0000394,Parda,F,34,superior,2013,solteiro,Recife
+#0000395,Branca,F,50,médio,1032,solteiro,Salvador
+#0000396,Negra,M,23,fundamental,1024,casado,Belo Horizonte
+#0000397,Indígena,F,16,médio,1026,separado,Vitória
+#0000398,Indígena,F,43,fundamental,1054,solteiro,Natal
+#0000399,Branca,F,87,superior,1987,casado,Recife
+#0000400,branca,M,46,médio,2014,viúvo,Salvador
+#0000401,negra,F,54,superior,1034,solteiro,Belo Horizonte
+#0000402,Indígena,F,78,pós-graduação,1230,solteiro,Belo Horizonte
+#0000403,negra,F,89,fundamental,1245,casado,Vitória
+#0000404,parda,F,54,médio,1365,solteiro,Natal
+#0000405,Branca,M,21,superior,1000,solteiro,Recife
+#0000406,Negra,M,21,pós-graduação,950,casado,Salvador
+#0000407,Indígena,F,45,fundamental,2413,casado,Belo Horizonte
+#0000408,Negra,M,20,médio,3412,viúvo,Vitória
+#0000409,Parda,F,54,superior,2000,solteiro,Porto Alegre
+#0000410,Branca,F,46,médio,2012,solteiro,São Paulo
+#0000411,Negra,F,45,técnico,3102,casado,Curitiba
+#0000412,Indígena,M,21,superior,3412,casado,Rio de Janeiro
+#0000413,Indígena,F,65,pós-graduação,2000,separado,Brasilia
+#0000414,Branca,F,74,fundamental,2012,casado,Florianopolis
+#0000415,branca,F,44,médio,3102,viúvo,Rio Branco
+#0000416,negra,M,75,médio,1023,solteiro,São Paulo
+#0000417,Indígena,F,64,fundamental,1024,solteiro,Salvador
+#0000418,Indígena,F,55,superior,1052,casado,Belo Horizonte
+#0000419,Branca,F,33,médio,1025,casado,Salvador
+#0000420,branca,F,14,fundamental,1754,viúvo,Belo Horizonte
+#0000421,negra,M,56,médio,1354,solteiro,Vitória
+#0000422,Indígena,F,84,fundamental,1658,solteiro,Porto Alegre
+#0000423,Parda,F,53,superior,2013,casado,São Paulo
+#0000424,Branca,F,74,médio,7840,casado,Curitiba
+#0000425,Negra,F,65,superior,3210,viúvo,Curitiba
+#0000426,Indígena,M,42,pós-graduação,1024,solteiro,Rio de Janeiro
+#0000427,Indígena,M,25,fundamental,2013,casado,Brasilia
+#0000428,Branca,F,13,médio,1032,solteiro,Florianopolis
+#0000429,branca,M,14,superior,1754,casado,Rio Branco
+#0000430,negra,F,58,médio,1354,casado,São Paulo
+#0000431,Indígena,F,56,técnico,1658,separado,Salvador
+#0000432,negra,F,33,superior,2013,casado,Belo Horizonte
+#0000433,parda,M,34,pós-graduação,7840,viúvo,Vitória
+#0000434,Branca,F,25,fundamental,3210,solteiro,Natal
+#0000435,Negra,F,27,médio,1024,solteiro,Recife
+#0000436,Indígena,F,29,médio,2013,casado,Salvador
+#0000437,Indígena,M,54,fundamental,1032,casado,Belo Horizonte
+#0000438,negra,F,34,superior,1024,viúvo,Vitória
+#0000439,parda,F,46,médio,1026,solteiro,Natal
+#0000440,Branca,F,48,fundamental,1054,solteiro,Recife
+#0000441,Negra,F,50,fundamental,1987,casado,Salvador
+#0000442,Parda,M,23,médio,2014,casado,Belo Horizonte
+#0000443,Branca,M,58,médio,1034,viúvo,Belo Horizonte
+#0000444,Negra,F,87,técnico,1230,solteiro,São Paulo
+#0000445,Indígena,M,64,superior,1987,casado,Salvador
+#0000446,Indígena,F,56,pós-graduação,2014,solteiro,Belo Horizonte
+#0000447,Branca,F,33,fundamental,1034,casado,Salvador
+#0000448,branca,F,34,médio,1230,viúvo,Belo Horizonte
+#0000449,negra,M,25,superior,1245,solteiro,Vitória
+#0000450,Indígena,F,27,médio,1365,solteiro,Porto Alegre
+#0000451,negra,F,29,técnico,1000,casado,São Paulo
+#0000452,parda,F,54,superior,950,casado,Curitiba
+#0000453,Branca,M,34,pós-graduação,2413,viúvo,Curitiba
+#0000454,Negra,F,46,fundamental,3412,solteiro,Rio de Janeiro
+#0000455,Indígena,F,48,médio,2000,solteiro,Brasilia
+#0000456,Indígena,F,50,médio,2012,casado,Florianopolis
+#0000457,negra,M,20,fundamental,3102,casado,Rio Branco
+#0000458,parda,F,45,superior,3412,separado,São Paulo
